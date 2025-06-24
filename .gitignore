@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Archivos de audio generados
+*.wav
+*.mp3
+
+# Archivos temporales
+*.pyc
+.DS_Store
+
+# Archivos grandes entrenados automáticamente
+xtts-argentinian/checkpoints/
+xtts-argentinian/logs/
